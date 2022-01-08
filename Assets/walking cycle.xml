@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="walking cycle.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="character instance 10000" x="0" y="0" width="194" height="271"/>
+	<SubTexture name="character instance 10001" x="194" y="0" width="194" height="271"/>
+	<SubTexture name="character instance 10002" x="388" y="0" width="194" height="271"/>
+	<SubTexture name="character instance 10003" x="582" y="0" width="194" height="271"/>
+	<SubTexture name="character instance 10004" x="776" y="0" width="194" height="271"/>
+	<SubTexture name="character instance 10005" x="0" y="271" width="194" height="271"/>
+	<SubTexture name="character instance 10006" x="194" y="271" width="194" height="271"/>
+	<SubTexture name="character instance 10007" x="388" y="271" width="194" height="271"/>
+	<SubTexture name="character instance 10008" x="582" y="271" width="194" height="271"/>
+	<SubTexture name="character instance 10009" x="776" y="271" width="194" height="271"/>
+	<SubTexture name="character instance 10010" x="0" y="542" width="194" height="271"/>
+	<SubTexture name="character instance 10011" x="194" y="542" width="194" height="271"/>
+	<SubTexture name="character instance 10012" x="388" y="542" width="194" height="271"/>
+	<SubTexture name="character instance 10013" x="582" y="542" width="194" height="271"/>
+	<SubTexture name="character instance 10014" x="776" y="542" width="194" height="271"/>
+	<SubTexture name="character instance 10015" x="0" y="813" width="194" height="271"/>
+	<SubTexture name="character instance 10016" x="194" y="813" width="194" height="271"/>
+</TextureAtlas>
